@@ -1,0 +1,12 @@
+- Buy milk, eggs and bread on the way home
+- Python list comprehensions are faster than equivalent for-loops
+- Dentist appointment on Friday at 4 pm
+- Use virtualenv to isolate Python project dependencies
+- Grocery list: tomatoes, onions, rice
+- Doctor said to drink more water and sleep 8 hours
+- Pandas groupby is useful for summarizing data in Python
+- Pick up prescription from the pharmacy
+- Pasta ingredients: flour, eggs, olive oil
+- Git rebase rewrites commit history, avoid on shared branches
+- Remember annual health checkup blood test next month
+- Write unit tests with pytest before refactoring Python code
