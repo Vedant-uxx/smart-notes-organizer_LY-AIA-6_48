@@ -1,3 +1,9 @@
+DETAILS ---->
+Vedant Santosh Jadhav 
+ADT24SOCBD141
+Roll no 48
+LY-AIA-6
+
 # 🗂️ Smart Notes Organizer
 
 Paste notes from many places → get them **grouped by topic** with an auto-generated **heading for each group**, as clean **Markdown**.
